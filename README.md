@@ -4,6 +4,7 @@ a simple tiktok username checker
 
 ## Installation
 pip install -r requirements.txt
+
 python main.py
 
 
